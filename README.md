@@ -1,4 +1,52 @@
-<a href="http://www.bootstrapdash.com/demo/purple-admin-free" target="_blank"><img src="screenshot.jpg"></a>
+<h1 align = center> The Healthy Harvest Grocery Hub</h1>
+
+## 🚀 Introduction
+The **Healthy Harvest Grocery Hub** is a modern, feature-rich online grocery store that allows users to browse, search, and purchase fresh and organic products with ease. The project aims to streamline the grocery shopping experience by providing an intuitive and user-friendly interface.
+
+## 🔥 Features
+- 🛒 **User-Friendly Shopping Experience** – Browse a variety of grocery items with a seamless UI.
+- 🔍 **Advanced Search & Filtering** – Find products quickly using smart search and filters.
+- 🏷️ **Discounts & Offers** – Get the best deals on fresh groceries.
+- 💳 **Secure Payment Gateway** – Supports multiple payment methods.
+- 📦 **Order Tracking** – Track orders in real time.
+- 📜 **Admin Dashboard** – Manage inventory, orders, and user accounts efficiently.
+- 📱 **Responsive Design** – Works smoothly across all devices.
+
+## 🛠️ Tech Stack
+- **Backend:** PHP
+- **Frontend:** HTML, CSS, JavaScript
+- **Libraries & Frameworks:**
+  - Bootstrap 5.1.3
+  - jQuery 3.4.1
+  - Chart.js 2.8.0
+  - Perfect Scrollbar
+- **Build Tools:**
+  - Gulp
+  - Browser-sync
+
+## 🎯 Installation & Setup
+Follow these steps to run the project locally:
+
+1. **Clone the repository:**
+   ```sh
+   git clone https://github.com/Abhay-55/Abhay-55-The-Healthy-Harvest-Grocery-Hub.git
+   cd The-Healthy-Harvest-Grocery-Hub
+   ```
+2. **Set up a local server:** (e.g., XAMPP, WAMP, or LAMP)
+3. **Place the project in the server directory:**
+   - Move the project folder to the `htdocs` directory (for XAMPP users) or the relevant web root.
+4. **Start Apache and MySQL from XAMPP/WAMP.**
+5. **Access the application in your browser:**
+   ```
+   http://localhost/The-Healthy-Harvest-Grocery-Hub
+
+
+## 🖼️ PurpleAdmin-Free-Admin-Template
+
+<p align  = center><a href="http://www.bootstrapdash.com/demo/purple-admin-free" target="_blank">
+    <img src="screenshot.jpg" alt="Screenshot" style="float: center; height: 590px; width: 700px;">
+</a></p>
+
 
 <h1>PurpleAdmin-Free-Admin-Template</h1>
 Purple Admin is a free responsive admin template built with Bootstrap 5. The template has colorful, attractive yet simple and elegant design. The template is well crafted, with all the components neatly and carefully designed and arranged within the template.
@@ -67,3 +115,15 @@ After Gulp has been installed, follow the steps below to contribute.
 	Do you need a template with more features and functionalities? Get more with our collection of the premium template with more plugins, eye catching animations, UI components, and sample pages all fitting together with a high-quality design.
 Visit
   <a href="https://www.bootstrapdash.com" target="_blank">https://www.bootstrapdash.com</a> for more admin templates.
+
+
+## 📞 Contact
+
+For queries and collaborations, reach out to:
+
+- **Abhay**  
+  [GitHub](https://github.com/Abhay-55) | [LinkedIn](https://www.linkedin.com/in/abhaymaity/)
+
+---
+
+Made with ❤️ by **Abhay**
