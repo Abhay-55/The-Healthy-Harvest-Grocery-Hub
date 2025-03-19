@@ -7,7 +7,7 @@ The **Healthy Harvest Grocery Hub** is a modern, feature-rich online grocery sto
 - 🛒 **User-Friendly Shopping Experience** – Browse a variety of grocery items with a seamless UI.
 - 🔍 **Advanced Search & Filtering** – Find products quickly using smart search and filters.
 - 🏷️ **Discounts & Offers** – Get the best deals on fresh groceries.
-- 💳 **Secure Payment Gateway** – Supports multiple payment methods.
+'- 💳 **Secure Payment Gateway** – Supports multiple payment methods.'
 - 📦 **Order Tracking** – Track orders in real time.
 - 📜 **Admin Dashboard** – Manage inventory, orders, and user accounts efficiently.
 - 📱 **Responsive Design** – Works smoothly across all devices.
